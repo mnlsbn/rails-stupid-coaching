@@ -1,0 +1,31 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1{
+  display: flex;
+  justify-content: center;
+  color: grey;
+  $font-stack: Helvetica;
+}
+
+h3{
+  display: flex;
+  justify-content: center;
+  color: grey;
+  $font-stack: Helvetica;
+}
+
+.ask{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.answer{
+  text-align: center;
+}
+
+.btn{
+  color: white;
+  background: blue;
+}
